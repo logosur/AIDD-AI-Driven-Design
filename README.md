@@ -1,5 +1,5 @@
-IDD (IA Driven Design)
-IDD, short for Intelligence Artificial Driven Design, is an emerging approach to software development in which artificial intelligence actively contributes to the design, architecture, and programming of digital systems.
+AIDD (or ADD) (AI Driven Design)
+AIDD, short for Artificial Intelligence Driven Design (also can be shorted to ADD), is an emerging approach to software development in which artificial intelligence actively contributes to the design, architecture, and programming of digital systems.
 
 The term was coined at www.logosur.com, a platform offering specialized mentoring programs focused on learning to code alongside artificial intelligence. IDD defines a methodology where humans collaborate with generative AI models to acquire programming skills, make design decisions, and build technological products.
 
